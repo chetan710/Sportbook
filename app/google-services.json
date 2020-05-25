@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299518423334",
+    "firebase_url": "https://sportbook-dd1c3.firebaseio.com",
+    "project_id": "sportbook-dd1c3",
+    "storage_bucket": "sportbook-dd1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299518423334:android:5dfd754e12c5a6a63711e7",
+        "android_client_info": {
+          "package_name": "com.app.event.sportbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299518423334-1kir6v19ckpddp6l4gqn3bv3f3t40o0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iJDBqW4yg_EWUhnMjLwdP7FIT_B_30s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299518423334-1kir6v19ckpddp6l4gqn3bv3f3t40o0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
